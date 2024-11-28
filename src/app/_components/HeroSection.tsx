@@ -80,9 +80,9 @@ const HeroSection = () => {
               <Button
                 variant="outline"
                 size="lg"
-                className="w-full sm:w-auto border-teal-400 text-teal-400 hover:bg-teal-400 hover:text-white transition duration-300 ease-in-out"
+                className="w-full sm:w-auto border-teal-400 bg-transparent text-teal-400 hover:bg-teal-400 hover:text-white transition duration-300 ease-in-out"
               >
-                Learn More
+                ContactUs
               </Button>
             </motion.div>
           </motion.div>
